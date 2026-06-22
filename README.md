@@ -67,4 +67,4 @@ Govt Decode is an AI-powered web application that transforms lengthy government 
 * Policy Analysts
 * Administrative Staff
 * Citizens seeking quick understanding of official notifications
-fications
+
